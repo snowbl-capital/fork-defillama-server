@@ -84,6 +84,7 @@ export default {
   arrakis: require("./markets/arrakis"),
   aktionariat: require("./markets/aktionariat"),
   yieldYak: require("./yield/yield-yak"),
+  snowbl: require("./yield/snowbl-capital"),
   tezos: require("./tezos"),
   nightshade: require("./markets/nightshade"),
   aaveDebt: require("./moneyMarkets/aave-debt"),
